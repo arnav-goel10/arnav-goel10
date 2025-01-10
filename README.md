@@ -1,17 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Arnav Goel! 👋
 
-<!--
-**arnav-goel10/arnav-goel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science undergraduate** at the **National University of Singapore (NUS)**, pursuing a **minor in Entrepreneurship**. My journey is centered on leveraging technology to solve real-world problems, whether through **data engineering**, **software development**, or **innovative project work**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌍 **From**: India 🇮🇳
+- 🎓 **Studying**: Computer Science with a Minor in Entrepreneurship at NUS 🇸🇬
+- 👨‍💻 **Currently Working On**:
+  - Developing a natural language interface on top of a database to provide users with actionable insights in response to their queries
+  - Data engineering projects focused on mapping and analyzing sports performance data
+  - Software development for the **NUS Mars Rover Club**, enhancing rover functionalities
+- 🌟 **Passions**: AI/Big Tech, and tech-driven entrepreneurship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am passionate about solving some of the enterprise problems for a sustainable transformation using digital and new emerging technologies.
+## 🛠️ Skills
+- **Languages**: Python, Java, C, JavaScript, TypeScript, SQL
+- **Frameworks/Tools**: React, Next.js, Node.js, Bootstrap, Material UI
+- **Specialized Knowledge**: Data pipelines, automation and web development
+
+## 📫 Get in Touch
+- **Email**: [arnav@u.nus.edu](mailto:arnav@u.nus.edu)
+- **LinkedIn**: [linkedin.com/in/arnavl10](https://linkedin.com/in/arnav10)
+  
+Thanks for stopping by! 🚀
