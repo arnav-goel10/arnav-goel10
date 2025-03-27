@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I'm a **Computer Science undergraduate** at the **
 - 🌍 **From**: India 🇮🇳
 - 🎓 **Studying**: Computer Science with a Minor in Entrepreneurship at NUS 🇸🇬
 - 👨‍💻 **Currently Working On**:
-  - Developing a natural language interface on top of a database to provide users with actionable insights in response to their queries
-  - Data engineering projects focused on mapping and analyzing sports performance data
-  - Software development for the **NUS Mars Rover Club**, enhancing rover functionalities
+  - Developing and maintaining the NUS Students’ Union (NUSSU) website using TypeScript, Next.js, and Firebase
+- 🔥 **Recently Worked On**:
+  - Retrieval-Augmented Generation (RAG) System – Built an intelligent system leveraging LangChain and OpenAI to enhance document-based Q&A with external knowledge retrieval.
+  - Sports Data Engineering – Mapped and analyzed performance data to generate insights for sports analytics.
 - 🌟 **Passions**: AI/Big Tech, and tech-driven entrepreneurship
 
 ## 🛠️ Skills
-- **Languages**: Python, Java, C, JavaScript, TypeScript, SQL
+- **Languages**: Python, Java, C, R, JavaScript/TypeScript, SQL
 - **Frameworks/Tools**: React, Next.js, Node.js, Bootstrap, Material UI
 - **Specialized Knowledge**: Data pipelines, automation and web development
 
