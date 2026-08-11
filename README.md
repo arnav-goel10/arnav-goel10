@@ -9,6 +9,12 @@ Final-year CS undergrad at the **National University of Singapore**. I like buil
 ### 🎵 [Music Trend Recommender](https://github.com/arnav-goel10/music-trend-recommender)
 Tries to catch songs on the way up. Blends signals from six chart sources, shows exactly *why* each track scored what it did, and uses Gumbel-Top-k sampling so it explores instead of always playing it safe. Scored by replaying weeks in order, so it never gets to peek at the future.
 
+### 📉 [Chronos LINK Forecasting](https://github.com/arnav-goel10/chronos-link-forecasting)
+Probabilistic time-series forecasting where the hard part is not the model, it's not lying to yourself. Backward-only feature joins, temporal splits, and quantile metrics that refuse to score misaligned data. 55 tests, including 300 randomised probes that no feature ever leaks in from the future.
+
+### 🎙️ [Whisper for Singaporean English](https://github.com/arnav-goel10/whisper-singapore-english)
+LoRA adaptation of whisper-tiny for Singaporean-accented speech. Training 1.4% of a 39M model (540,672 parameters) took it from 66.2% to 23.8% WER, beating zero-shot whisper-small at 6x fewer parameters. Ships the WER harness, not the licensed corpus.
+
 ### ⚡ [Select to AI](https://github.com/arnav-goel10/select-to-ai)
 Highlight text anywhere, fire it at ChatGPT, Gemini or Perplexity. Also has a browser agent for cross-tab tasks that asks before it does anything irreversible. ~1,000 users and Chrome Web Store **Featured**. Your API keys never leave your browser.
 
@@ -25,7 +31,7 @@ Rust playground for prediction-market pricing: order-book reconstruction, lead-l
 - 🤖 **AI engineering** @ iEnergy Digital: safety and compliance agent on AWS with hybrid dense/BM25 retrieval and SQL tools
 - 🔧 **Backend** @ NUS IT: three internal platforms, SSO and per-route RBAC, and a sync engine with 167 tests behind it
 - 🥽 **Vision Pro research** @ NUS × Apple: a cognitive-assessment app built in the Interactive 3D Design Lab and piloted with stroke patients at NUH, written up for ISMAR 2026 (closed source, since it's clinical research)
-- 🧪 **Fine-tuning odds and ends:** Whisper LoRA for Singaporean-accented English, BitFit on Qwen3-4B, Chronos-2 for forecasting *(repos in progress)*
+- 🧪 **Also fine-tuned** Qwen3-4B with BitFit for insurance-policy reasoning *(repo in progress)*
 
 ## 📫 Say hi
 
