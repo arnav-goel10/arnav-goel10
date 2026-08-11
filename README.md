@@ -31,7 +31,7 @@ Rust playground for prediction-market pricing: order-book reconstruction, lead-l
 - 🤖 **AI engineering** @ iEnergy Digital: safety and compliance agent on AWS with hybrid dense/BM25 retrieval and SQL tools
 - 🔧 **Backend** @ NUS IT: three internal platforms, SSO and per-route RBAC, and a sync engine with 167 tests behind it
 - 🥽 **Vision Pro research** @ NUS × Apple: a cognitive-assessment app built in the Interactive 3D Design Lab and piloted with stroke patients at NUH, written up for ISMAR 2026 (closed source, since it's clinical research)
-- 🧪 **Also fine-tuned** Qwen3-4B with BitFit for insurance-policy reasoning *(repo in progress)*
+- 🧪 **Also fine-tuned** Qwen3-4B with BitFit for insurance-policy reasoning
 
 ## 📫 Say hi
 
