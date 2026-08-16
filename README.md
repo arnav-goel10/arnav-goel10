@@ -16,7 +16,7 @@ Probabilistic time-series forecasting where the hard part is not the model, it's
 LoRA adaptation of whisper-tiny for Singaporean-accented speech. Training 1.4% of a 39M model (540,672 parameters) took it from 66.2% to 23.8% WER, beating zero-shot whisper-small at 6x fewer parameters. Ships the WER harness, not the licensed corpus.
 
 ### ⚡ [Select to AI](https://github.com/arnav-goel10/select-to-ai)
-Highlight text anywhere, fire it at ChatGPT, Gemini or Perplexity. Also has a browser agent for cross-tab tasks that asks before it does anything irreversible. ~1,000 users and Chrome Web Store **Featured**. Your API keys never leave your browser.
+Highlight text anywhere, fire it at ChatGPT, Gemini, Claude or Perplexity, or type `ai` in the address bar and it routes sites, questions and tasks. The browser agent plans its work, checks every action actually changed the page, must validate its answer before finishing, and asks before anything irreversible. ~1,000 users and Chrome Web Store **Featured**. Your API keys never leave your browser.
 
 ### 📈 [Polymarket Pricing Research](https://github.com/arnav-goel10/polymarket-pricing-research)
 Rust playground for prediction-market pricing: order-book reconstruction, lead-lag and order-flow signals, calibration, replay backtests. Strictly paper-only, no live trading.
